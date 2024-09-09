@@ -34,6 +34,8 @@ To run this Chess game locally, follow the steps below:
 
 ### 1. Clone the Repository
 First, clone this repository to your local machine using Git.
+![Screenshot 2024-09-10 002444](https://github.com/user-attachments/assets/49d0bb5c-ab6c-49b1-8def-126a9db03404)
+
 
 ```bash
 git clone https://github.com/your-username/chess-game.git
